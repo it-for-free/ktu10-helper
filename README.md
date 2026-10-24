@@ -63,7 +63,7 @@ HTML- последовательности, например, можно исп�
 * Работа интернета и сетей https://fkn.ktu10.com/?q=node/17688 - отдельный подкурс без привязки к конктретному языку программирования
 * Курс по Golang: https://fkn.ktu10.com/?q=node/17433
 * Практические уроки по PHP: https://fkn.ktu10.com/?q=node/17702 — подробнее в [docs/php-practice-exercises.md](docs/php-practice-exercises.md)
-* Репозиторий `../web-zoo` - тут планируются учебные сервисы и приложения
+* Репозиторий `../web-zoo` - тут планируются учебные сервисы и приложения (php-уроки из него переехали в `../php-practice-exercises`, см. [docs/php-practice-exercises.md](docs/php-practice-exercises.md))
 
 ### Другие списки/страницы/Разделы
 
