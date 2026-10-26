@@ -65,6 +65,8 @@ HTML- последовательности, например, можно исп�
 * Практические уроки по PHP: https://fkn.ktu10.com/?q=node/17702 — подробнее в [docs/php-practice-exercises.md](docs/php-practice-exercises.md)
 * Теория и синтаксис PHP (учебник): https://fkn.ktu10.com/?q=node/11117 - на эти темы можно ссылатсья из практических уроков и других заметок по PHP
 * Репозиторий `../web-zoo` - тут планируются учебные сервисы и приложения (php-уроки из него переехали в `../php-practice-exercises`, см. [docs/php-practice-exercises.md](docs/php-practice-exercises.md))
+* О работе с Makefile-ом: https://fkn.ktu10.com/?q=node/11423
+
 
 ### Другие списки/страницы/Разделы
 
