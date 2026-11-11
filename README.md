@@ -75,7 +75,7 @@ HTML- последовательности, например, можно исп�
 * Репозиторий `../web-zoo` - тут планируются учебные сервисы и приложения (php-уроки из него переехали в `../php-practice-exercises`, см. [docs/php-practice-exercises.md](docs/php-practice-exercises.md))
 * О работе с Makefile-ом: https://fkn.ktu10.com/?q=node/11423 — репозиторий с примерами: `../makefile-lessons`
 * Наши уроки по Bash основы работы с командной строкой https://fkn.ktu10.com/?q=node/16037
-* Раздел по Docker-у: https://fkn.ktu10.com/?q=node/10406
+* Раздел по Docker-у: https://fkn.ktu10.com/?q=node/10406 — репозиторий с уроками локально лежит  в `../docker-lessons`, на гитхабе https://github.com/it-for-free/docker-lessons
 
 
 ### Другие списки/страницы/Разделы
